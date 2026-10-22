@@ -1,0 +1,11 @@
+C:\Users\guillermo.galocha_al\Desktop\acceso a datos\MasEmpleado\MasEmpleado\bin\Debug\MasEmpleado.exe.config
+C:\Users\guillermo.galocha_al\Desktop\acceso a datos\MasEmpleado\MasEmpleado\bin\Debug\MasEmpleado.exe
+C:\Users\guillermo.galocha_al\Desktop\acceso a datos\MasEmpleado\MasEmpleado\bin\Debug\MasEmpleado.pdb
+C:\Users\guillermo.galocha_al\Desktop\acceso a datos\MasEmpleado\MasEmpleado\bin\Debug\MasEmpleado.xml
+C:\Users\guillermo.galocha_al\Desktop\acceso a datos\MasEmpleado\MasEmpleado\obj\Debug\MasEmpleado.vbproj.AssemblyReference.cache
+C:\Users\guillermo.galocha_al\Desktop\acceso a datos\MasEmpleado\MasEmpleado\obj\Debug\MasEmpleado.Resources.resources
+C:\Users\guillermo.galocha_al\Desktop\acceso a datos\MasEmpleado\MasEmpleado\obj\Debug\MasEmpleado.vbproj.GenerateResource.cache
+C:\Users\guillermo.galocha_al\Desktop\acceso a datos\MasEmpleado\MasEmpleado\obj\Debug\MasEmpleado.vbproj.CoreCompileInputs.cache
+C:\Users\guillermo.galocha_al\Desktop\acceso a datos\MasEmpleado\MasEmpleado\obj\Debug\MasEmpleado.exe
+C:\Users\guillermo.galocha_al\Desktop\acceso a datos\MasEmpleado\MasEmpleado\obj\Debug\MasEmpleado.xml
+C:\Users\guillermo.galocha_al\Desktop\acceso a datos\MasEmpleado\MasEmpleado\obj\Debug\MasEmpleado.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guillermo.galocha_al\\Desktop\\acceso a datos\\Clase alumno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF1234-32F8-4E68-A861-2D8F8784E85A}|Clase alumno\\Clase alumno.vbproj|c:\\users\\guillermo.galocha_al\\desktop\\acceso a datos\\clase alumno\\clase alumno\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{51EF1234-32F8-4E68-A861-2D8F8784E85A}|Clase alumno\\Clase alumno.vbproj|solutionrelative:clase alumno\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\guillermo.galocha_al\\Desktop\\acceso a datos\\Clase alumno\\Clase alumno\\Module1.vb",
+              "RelativeDocumentMoniker": "Clase alumno\\Module1.vb",
+              "ToolTip": "C:\\Users\\guillermo.galocha_al\\Desktop\\acceso a datos\\Clase alumno\\Clase alumno\\Module1.vb*",
+              "RelativeToolTip": "Clase alumno\\Module1.vb*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAnwCgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-09T15:16:29.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

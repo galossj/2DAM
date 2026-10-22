@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\Herencias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16BD15E0-3C40-478C-A3A0-8E9CF261E774}|Herencias\\Herencias.vbproj|c:\\users\\guillermo.galocha_al\\desktop\\visual basic\\herencias\\herencias\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{16BD15E0-3C40-478C-A3A0-8E9CF261E774}|Herencias\\Herencias.vbproj|solutionrelative:herencias\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\Herencias\\Herencias\\Module1.vb",
+              "RelativeDocumentMoniker": "Herencias\\Module1.vb",
+              "ToolTip": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\Herencias\\Herencias\\Module1.vb",
+              "RelativeToolTip": "Herencias\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-13T15:53:38.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

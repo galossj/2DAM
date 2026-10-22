@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\Constructores y herencias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3792F06-BA8E-4482-83FF-4E9371079378}|Constructores y herencias\\Constructores y herencias.vbproj|c:\\users\\guillermo.galocha_al\\desktop\\visual basic\\constructores y herencias\\constructores y herencias\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B3792F06-BA8E-4482-83FF-4E9371079378}|Constructores y herencias\\Constructores y herencias.vbproj|solutionrelative:constructores y herencias\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\Constructores y herencias\\Constructores y herencias\\Module1.vb",
+              "RelativeDocumentMoniker": "Constructores y herencias\\Module1.vb",
+              "ToolTip": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\Constructores y herencias\\Constructores y herencias\\Module1.vb",
+              "RelativeToolTip": "Constructores y herencias\\Module1.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-20T16:03:21.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

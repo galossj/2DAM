@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guillermo.galocha_al\\Desktop\\desarrollo de interfaces\\Proyecto_mysql_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB201C8F-F13E-4FB4-A91D-81EE117B387A}|Proyecto_mysql_1\\Proyecto_mysql_1.csproj|c:\\users\\guillermo.galocha_al\\desktop\\desarrollo de interfaces\\proyecto_mysql_1\\proyecto_mysql_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB201C8F-F13E-4FB4-A91D-81EE117B387A}|Proyecto_mysql_1\\Proyecto_mysql_1.csproj|solutionrelative:proyecto_mysql_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB201C8F-F13E-4FB4-A91D-81EE117B387A}|Proyecto_mysql_1\\Proyecto_mysql_1.csproj|c:\\users\\guillermo.galocha_al\\desktop\\desarrollo de interfaces\\proyecto_mysql_1\\proyecto_mysql_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB201C8F-F13E-4FB4-A91D-81EE117B387A}|Proyecto_mysql_1\\Proyecto_mysql_1.csproj|solutionrelative:proyecto_mysql_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\guillermo.galocha_al\\Desktop\\desarrollo de interfaces\\Proyecto_mysql_1\\Proyecto_mysql_1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Proyecto_mysql_1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\guillermo.galocha_al\\Desktop\\desarrollo de interfaces\\Proyecto_mysql_1\\Proyecto_mysql_1\\MainWindow.xaml",
+              "RelativeToolTip": "Proyecto_mysql_1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-05T17:34:23.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\guillermo.galocha_al\\Desktop\\desarrollo de interfaces\\Proyecto_mysql_1\\Proyecto_mysql_1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Proyecto_mysql_1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\guillermo.galocha_al\\Desktop\\desarrollo de interfaces\\Proyecto_mysql_1\\Proyecto_mysql_1\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Proyecto_mysql_1\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:34:19.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

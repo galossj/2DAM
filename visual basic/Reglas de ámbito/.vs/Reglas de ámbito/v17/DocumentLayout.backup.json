@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\Reglas de \u00E1mbito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44BE276A-F620-4313-B000-95BD861CA02F}|Reglas de \u00E1mbito\\Reglas de \u00E1mbito.vbproj|c:\\users\\guillermo.galocha_al\\desktop\\visual basic\\reglas de \u00E1mbito\\reglas de \u00E1mbito\\reglasdeambito.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{44BE276A-F620-4313-B000-95BD861CA02F}|Reglas de \u00E1mbito\\Reglas de \u00E1mbito.vbproj|solutionrelative:reglas de \u00E1mbito\\reglasdeambito.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reglasDeAmbito.vb",
+              "DocumentMoniker": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\Reglas de \u00E1mbito\\Reglas de \u00E1mbito\\reglasDeAmbito.vb",
+              "RelativeDocumentMoniker": "Reglas de \u00E1mbito\\reglasDeAmbito.vb",
+              "ToolTip": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\Reglas de \u00E1mbito\\Reglas de \u00E1mbito\\reglasDeAmbito.vb",
+              "RelativeToolTip": "Reglas de \u00E1mbito\\reglasDeAmbito.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAQAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-22T13:13:25.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

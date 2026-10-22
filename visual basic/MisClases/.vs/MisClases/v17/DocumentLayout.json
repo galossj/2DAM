@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\MisClases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E4BA2B-224E-4EF2-8161-5AA7400A643F}|MisClases\\MisClases.vbproj|c:\\users\\guillermo.galocha_al\\desktop\\visual basic\\misclases\\misclases\\empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{01E4BA2B-224E-4EF2-8161-5AA7400A643F}|MisClases\\MisClases.vbproj|solutionrelative:misclases\\empleado.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E4BA2B-224E-4EF2-8161-5AA7400A643F}|MisClases\\MisClases.vbproj|c:\\users\\guillermo.galocha_al\\desktop\\visual basic\\misclases\\misclases\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{01E4BA2B-224E-4EF2-8161-5AA7400A643F}|MisClases\\MisClases.vbproj|solutionrelative:misclases\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\MisClases\\MisClases\\Module1.vb",
+              "RelativeDocumentMoniker": "MisClases\\Module1.vb",
+              "ToolTip": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\MisClases\\MisClases\\Module1.vb",
+              "RelativeToolTip": "MisClases\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0BAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-13T16:05:02.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.vb",
+              "DocumentMoniker": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\MisClases\\MisClases\\Empleado.vb",
+              "RelativeDocumentMoniker": "MisClases\\Empleado.vb",
+              "ToolTip": "C:\\Users\\guillermo.galocha_al\\Desktop\\visual basic\\MisClases\\MisClases\\Empleado.vb",
+              "RelativeToolTip": "MisClases\\Empleado.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-13T15:59:42.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
