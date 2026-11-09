@@ -12,11 +12,10 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\guillermo.galocha_al\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\guillermo.galocha_al\\.nuget\\packages"
+      "C:\\Users\\galoc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\galoc\\.nuget\\packages"
     ],
     "configProperties": {
-      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
       "CSWINRT_USE_WINDOWS_UI_XAML_PROJECTIONS": false,
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
     }

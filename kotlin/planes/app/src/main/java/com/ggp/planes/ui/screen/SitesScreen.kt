@@ -20,16 +20,16 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.tooling.preview.Preview
-import com.ggp.planes.ui.component.SiteCard
 import com.ggp.planes.data.Site
+import com.ggp.planes.ui.component.SiteCard
 
 @Composable
-fun SitesScreen(modifier: Modifier = Modifier){
+fun SitesScreen(modifier: Modifier = Modifier) {
 
     // DATOS QUE MUESTRA LA INTERFAZ
 
     //VARIABLE PARA BUSCAR EN LA LISTA DE SITIOS
-    var textoBusqueda by remember{ mutableStateOf("") }
+    var textoBusqueda by remember { mutableStateOf("") }
     var isCheckBoxFavPresionado by remember { mutableStateOf(false) }
     var isSwitchFavPresionado by remember { mutableStateOf(false) }
 
@@ -37,8 +37,8 @@ fun SitesScreen(modifier: Modifier = Modifier){
     //COMO POR [isCheckBoxFavPresionado]
     val listaFiltrada = { listaSitios: List<Site>, esPresionado: Boolean ->
         var listaFinal = listOf<Site>()
-        if(esPresionado){
-            listaFinal  = listaSitios.filter { sitio : Site ->
+        if (esPresionado) {
+            listaFinal = listaSitios.filter { sitio: Site ->
                 sitio.esFavorito &&
                         sitio.nombre.contains(textoBusqueda, ignoreCase = true) ||
                         sitio.direccion.contains(textoBusqueda, ignoreCase = true)
@@ -111,21 +111,22 @@ fun SitesScreen(modifier: Modifier = Modifier){
                 horizontalAlignment = Alignment.CenterHorizontally
             ) { }
 
-                Switch(
-                    checked = isSwitchFavPresionado,
-                    onCheckedChange = {
-                        isSwitchFavPresionado = !isSwitchFavPresionado
-                        isCheckBoxFavPresionado = false
-                    }
-                )
-                Text(text = "Habilitar Checkbox")
+            Switch(
+                checked = isSwitchFavPresionado,
+                onCheckedChange = {
+                    isSwitchFavPresionado = !isSwitchFavPresionado
+                    isCheckBoxFavPresionado = false
+                }
+            )
+            Text(text = "Habilitar Checkbox")
 
         }
-        //ESTAMOS FILTRANDO LOS ELEMENTOS DE LA LISTA PERO, AL TENENER LA LLAMADA A FILTRER, SOLO PINTAREMOS LOS ELEMENTOS QUE CUMPLAN
-        // LA CONDICION EN ESTE CASO LA CONDICION ES QUE EL TEXTOBUSQUEDA CONTENGA CARCATERES DEL NOMBRE O DIRECCION
-        items(listaFiltrada(listaSitios,isCheckBoxFavPresionado)
-        ){ sitio ->
-            SiteCard(sitio=sitio)
+        //ESTAMOS FILTRANDO LOS ELEMENTOS DE LA LISTA PERO, AL TENER LA LLAMADA A FILTRER, SOLO PINTAREMOS LOS ELEMENTOS QUE CUMPLAN
+        // LA CONDICION, EN ESTE CASO LA CONDICION ES QUE EL TEXTOBUSQUEDA CONTENGA CARACTERES DEL NOMBRE O DIRECCION
+        items(
+            listaFiltrada(listaSitios, isCheckBoxFavPresionado)
+        ) { sitio ->
+            SiteCard(sitio = sitio)
         }
     }
 }
@@ -133,6 +134,6 @@ fun SitesScreen(modifier: Modifier = Modifier){
 
 @Composable
 @Preview
-fun SitesScreenPreview(){
+fun SitesScreenPreview() {
     SitesScreen()
 }

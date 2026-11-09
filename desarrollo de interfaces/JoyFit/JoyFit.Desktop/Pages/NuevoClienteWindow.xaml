@@ -1,0 +1,55 @@
+﻿<Window x:Class="JoyFit.Desktop.Pages.NuevoClienteWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JoyFit.Desktop.Pages"
+        Title="NuevoClienteWindow"
+        Height="550"
+        Width="500"
+        WindowStartupLocation="CenterScreen"
+        Background="#15151F">
+    
+    <Grid Margin="30">
+
+        <StackPanel>
+
+            <TextBlock Text="Registrar cliente"
+                       FontSize="26"
+                       FontWeight="Bold"
+                       Foreground="White"
+                       Margin="0,0,0,25"/>
+
+            <TextBlock Text="Nombre" Foreground="White"/>
+            <TextBox x:Name="TxtNombre" Height="35"
+                     Margin="0,5,0,15"/>
+
+            <TextBlock Text="Apellidos" Foreground="White"/>
+            <TextBox x:Name="TxtApellidos" Height="35"
+                     Margin="0,5,0,15"/>
+
+            <TextBlock Text="DNI" Foreground="White"/>
+            <TextBox x:Name="TxtDNI" Height="35"
+                     Margin="0,5,0,15"/>
+
+            <TextBlock Text="Teléfono" Foreground="White"/>
+            <TextBox x:Name="TxtTelefono" Height="35"
+                     Margin="0,5,0,15"/>
+
+            <TextBlock Text="Correo electrónico" Foreground="White"/>
+            <TextBox x:Name="TxtCorreo" Height="35"
+                     Margin="0,5,0,25"/>
+
+            <Button Content="Guardar cliente"
+                    Height="40"
+                    Background="#8B5CF6"
+                    Foreground="White"
+                    FontWeight="Bold"
+                    BorderThickness="0"
+                    Click="GuardarCliente_Click"/>
+            
+        </StackPanel>
+        
+    </Grid>
+    
+</Window>

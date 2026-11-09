@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio de Guillermo Galocha - Desarrollador/a DAM</title>
+</head>
+<body>
+
+    <header>
+        <h1>Guillermo Galocha</h1>
+        <h2>Estudiante de 2º de DAM / Desarrollador Backend Junior</h2>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#sobre-mi">Sobre mí</a></li>
+            <li><a href="#proyectos">Proyectos</a></li>
+            <li><a href="#estudios">Competencias Técnicas</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="sobre-mi">
+            <h2>Sobre mí</h2>
+            <img src="foto.jpg" alt="Foto de perfil">
+            
+            <p>
+                Soy un desarrollador en formación orientado al <strong>backend</strong> y a la <strong>gestión de bases de datos</strong>.
+                Me gusta estructurar, organizar y optimizar la información para que las aplicaciones funcionen de forma
+                rápida y segura. Tengo conocimientos en la <em>creación de esquemas y consultas SQL</em>, y me considero una persona organizada,
+                metódica y enfocada en la lógica detrás de cada sistema.
+            </p>
+
+            <p>
+                Mi principal motivación es entender cómo funcionan las cosas por detrás. Aunque la interfaz sea lo que el usuario
+                ve, me motiva saber que la verdadera potencia y seguridad de una aplicación dependen de una <em>base de datos</em> bien
+                diseñada y optimizada.
+            </p>
+        </section>
+
+        <section id="proyectos">
+            <h2>Proyectos</h2>
+            <ol>
+                <li>
+                    <article>
+                        <h3>App de Asesoramiento Deportivo y Suplementación (Proyecto Final 2026)</h3>
+                        <p>Desarrollo integral de un sistema para el sector fitness. El proyecto incluye el
+                            diseño y creación de la base de datos, el desarrollo de la interfaz de usuario de
+                            la aplicación utilizando WPF, y la integración de la gestión y administración
+                            interna para el staff mediante Dynamics 365 Business Central.</p>
+                        <a href="https://github.com/guillermowebrecuperacion/tfg-2026" target="_blank">Ver repositorio en GitHub</a>
+                    </article>
+                </li>
+                <li>
+                    <article>
+                        <h3>Modelo de Base de Datos para E-commerce</h3>
+                        <p>Diseño del modelo Entidad-Relación y creación del script SQL para una tienda online,
+                            implementando restricciones de integridad y optimización de consultas.</p>
+                        <a href="https://github.com/guillermowebrecuperacion/ecommerce-db" target="_blank">Ver repositorio en GitHub</a>
+                    </article>
+                </li>
+            </ol>
+        </section>
+
+        <section id="estudios">
+            <h2>Competencias Técnicas</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Desarrollo Backend y Programación</th>
+                        <th>Nivel: Junior</th>
+                        <th>2025-2027</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Desarrollo de interfaces y acceso a datos (WPF)</td>
+                        <td>Intermedio</td>
+                        <td>2026</td>
+                    </tr>
+                    <tr>
+                        <td>Bases de datos (MySQL) y Power BI</td>
+                        <td>Intermedio</td>
+                        <td>2025/26</td>
+                    </tr>
+                    <tr>
+                        <td>Sistemas de gestión empresarial (Microsoft Business Central)</td>
+                        <td>Intermedio</td>
+                        <td>2026</td>
+                    </tr>
+                    <tr>
+                        <td>Programación (C, Python, Visual Basic)</td>
+                        <td>Básico</td>
+                        <td>2025/26</td>
+                    </tr>
+                    <tr>
+                        <td>Desarrollo Web (HTML, CSS, JavaScript, PHP)</td>
+                        <td>Básico</td>
+                        <td>2025/26</td>
+                    </tr>
+                    <tr>
+                        <td>Desarrollo con Java</td>
+                        <td>Básico</td>
+                        <td>2025</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <form action="#" method="POST">
+                
+                <label for="nombre">Nombre completo:</label>
+                <input type="text" id="nombre" name="nombre" required>
+                
+                <label for="email">Correo electrónico:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="motivo">Motivo de contacto:</label>
+                <select id="motivo" name="motivo">
+                    <option value="oferta">Oferta laboral</option>
+                    <option value="freelance">Proyecto freelance</option>
+                    <option value="otro">Otro</option>
+                </select>
+                
+                <label for="mensaje">Mensaje:</label>
+                <textarea id="mensaje" name="mensaje" rows="5"></textarea>
+                
+                <button type="submit">Enviar mensaje</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Guillermo Galocha. Todos los derechos reservados.</p>
+        <p>
+            Conecta conmigo en:
+            <a href="https://github.com/galossj" target="_blank">GitHub</a> | 
+            <a href="https://www.linkedin.com/in/guillermo-galocha-p%C3%A9rez-8836b238b/" target="_blank">LinkedIn</a>
+        </p>
+    </footer>
+
+</body>
+</html>

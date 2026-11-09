@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\galoc\\Desktop\\JoyFit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|c:\\users\\galoc\\desktop\\joyfit\\joyfit.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|solutionrelative:joyfit.desktop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|c:\\users\\galoc\\desktop\\joyfit\\joyfit.desktop\\pages\\clientespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|solutionrelative:joyfit.desktop\\pages\\clientespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|c:\\users\\galoc\\desktop\\joyfit\\joyfit.desktop\\pages\\clientespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|solutionrelative:joyfit.desktop\\pages\\clientespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|c:\\users\\galoc\\desktop\\joyfit\\joyfit.desktop\\pages\\nuevoclientewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|solutionrelative:joyfit.desktop\\pages\\nuevoclientewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|c:\\users\\galoc\\desktop\\joyfit\\joyfit.desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|solutionrelative:joyfit.desktop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|c:\\users\\galoc\\desktop\\joyfit\\joyfit.desktop\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|solutionrelative:joyfit.desktop\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|c:\\users\\galoc\\desktop\\joyfit\\joyfit.desktop\\pages\\nuevoclientewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|solutionrelative:joyfit.desktop\\pages\\nuevoclientewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|c:\\users\\galoc\\desktop\\joyfit\\joyfit.desktop\\pages\\iniciopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D5B740D-A3E6-F464-BFF1-BD6851392554}|JoyFit.Desktop\\JoyFit.Desktop.csproj|solutionrelative:joyfit.desktop\\pages\\iniciopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NuevoClienteWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\Pages\\NuevoClienteWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JoyFit.Desktop\\Pages\\NuevoClienteWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\Pages\\NuevoClienteWindow.xaml.cs",
+              "RelativeToolTip": "JoyFit.Desktop\\Pages\\NuevoClienteWindow.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T14:48:37.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "JoyFit.Desktop\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\Models\\Cliente.cs",
+              "RelativeToolTip": "JoyFit.Desktop\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T14:46:09.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\Pages\\ClientesPage.xaml",
+              "RelativeDocumentMoniker": "JoyFit.Desktop\\Pages\\ClientesPage.xaml",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\Pages\\ClientesPage.xaml",
+              "RelativeToolTip": "JoyFit.Desktop\\Pages\\ClientesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-08T17:45:13.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "JoyFit.Desktop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\MainWindow.xaml",
+              "RelativeToolTip": "JoyFit.Desktop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-08T16:08:10.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\Pages\\ClientesPage.xaml.cs",
+              "RelativeDocumentMoniker": "JoyFit.Desktop\\Pages\\ClientesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\Pages\\ClientesPage.xaml.cs",
+              "RelativeToolTip": "JoyFit.Desktop\\Pages\\ClientesPage.xaml.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAswGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T18:15:17.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NuevoClienteWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\Pages\\NuevoClienteWindow.xaml",
+              "RelativeDocumentMoniker": "JoyFit.Desktop\\Pages\\NuevoClienteWindow.xaml",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\Pages\\NuevoClienteWindow.xaml",
+              "RelativeToolTip": "JoyFit.Desktop\\Pages\\NuevoClienteWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-08T18:02:44.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InicioPage.xaml",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\Pages\\InicioPage.xaml",
+              "RelativeDocumentMoniker": "JoyFit.Desktop\\Pages\\InicioPage.xaml",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\Pages\\InicioPage.xaml",
+              "RelativeToolTip": "JoyFit.Desktop\\Pages\\InicioPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-08T16:47:59.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JoyFit.Desktop\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\galoc\\Desktop\\JoyFit\\JoyFit.Desktop\\MainWindow.xaml.cs",
+              "RelativeToolTip": "JoyFit.Desktop\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T16:42:20.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
